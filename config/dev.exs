@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :challenge_rush, ChallengeRush.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Phoenix1234",
   database: "challenge_rush_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
